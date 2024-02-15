@@ -6,7 +6,7 @@ order: 1
 
 # Introduction
 
-!['introduction'](/Tetouan/1.introduction/images/introduction.png)
+!['introduction'](./1.introduction/images/introduction.png)
 
 <!-- new slide -->
 

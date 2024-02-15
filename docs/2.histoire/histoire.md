@@ -1,12 +1,13 @@
 ---
 layout: presentation
+chapitre: Histoire
 order: 2
 ---
 
 # Histoire
 
-![Solicode](/Tetouan/2.histoire/images/tetouan.jpg)
-_Figure: kasabah_
+![Solicode](./2.histoire/images/tetouan.jpg)
+*Figure: kasabah*
 
 <!-- note -->
 

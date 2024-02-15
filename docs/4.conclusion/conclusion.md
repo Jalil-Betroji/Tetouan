@@ -6,6 +6,6 @@ order: 4
 
 # conclusion
 
-!['Conclusion'](/Tetouan/4.conclusion/images/conclusion.png)
+!['Conclusion'](./4.conclusion/images/conclusion.png)
 
 <!-- new slide -->

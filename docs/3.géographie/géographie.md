@@ -1,12 +1,13 @@
 ---
 layout: presentation
+chapitre: Géographie
 order: 3
 ---
 
 # Géographie
 
-![Solicode](/Tetouan/3.géographie/images/geographie.jpg)
-_Figure: Une vue sur les montagnes du Rif à Tétouan_
+![Solicode](./3.géographie/images/geographie.jpg)
+*Figure: Une vue sur les montagnes du Rif à Tétouan*
 
 <!-- note -->
 
